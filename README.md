@@ -6,6 +6,12 @@
 ```
 pip install git+https://github.com/Yuki1005/TripOpt.git
 ```
+上記または，画面右Releaseからフォルダーをダウンロードし
+```
+cd Downloads
+pip install フォルダーの名前
+```
+でインストール可能です
 
 # 使い方
 ## 準備

@@ -6,10 +6,10 @@
 ```
 pip install git+https://github.com/Yuki1005/TripOpt.git
 ```
-上記または，画面右Releaseからフォルダーをダウンロードし
+上記または，画面右Releaseから"tar.gz"フォルダーをダウンロードし
 ```
 cd Downloads
-pip install フォルダーの名前
+pip install TripOpt-TripOpt.tar.gz
 ```
 でインストール可能です
 

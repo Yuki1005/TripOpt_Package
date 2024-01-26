@@ -9,7 +9,7 @@ pip install git+https://github.com/Yuki1005/TripOpt.git
 上記または，画面右Releaseから"tar.gz"フォルダーをダウンロードし
 ```
 cd Downloads
-pip install TripOpt-TripOpt.tar.gz
+pip install TripOpt_Package-TripOpr1.0.tar.gz
 ```
 でインストール可能です
 
